@@ -22,10 +22,15 @@ Start the fontend and navigate through the site
 ******FEATURES******
 
 Register
+
 Login
+
 Admin Dashboard
+
 Lisiting of All Venues
+
 Booking
+
 Pages
 
 
